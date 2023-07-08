@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm raspFloppy</h1>
-<h3 align="center">A Jr. SWE & CS Student who's wanna be a boss soon.</h3>
+<h3 align="center">A Jr. SWE & CS Student who's wanna be a Boss reak soon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raspfloppy&label=Profile%20views&color=0e75b6&style=flat" alt="raspfloppy" /> </p>
 
