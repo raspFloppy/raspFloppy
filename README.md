@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cryptopills**
 
-- 🌱 I’m currently learning **Rust - Kubernetes - Azure**
+- 🌱 I’m currently learning **Rust - Go - Sveltekit**
 
 - 📫 How to reach me **gabriel.monti@tutamail.com**
 
