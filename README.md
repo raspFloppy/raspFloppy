@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm raspFloppy</h1>
-<h3 align="center">A Jr. SWE & CS Student who wants to make a difference.</h3>
+<h3 align="center">A Jr. SWE & CS Student</h3>
 
 - 🔭 I’m currently working on **Cryptopills**
 
