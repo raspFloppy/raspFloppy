@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm raspFloppy</h1>
 <h3 align="center">A Jr. SWE & CS Student who wants to make a difference.</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/73550410?v=4" alt="raspfloppy" /> </p>
-
 - 🔭 I’m currently working on **Cryptopills**
 
 - 🌱 I’m currently learning **Rust - Go - Sveltekit**
