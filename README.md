@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm raspFloppy</h1>
 <h3 align="center">A Jr. SWE & CS Student</h3>
 
-- 🔭 I’m currently working on **Cryptopills**
-
 - 🌱 I’m currently learning **Rust - Sveltekit**
 
 - 📫 How to reach me **gabriel.monti@tutamail.com**
