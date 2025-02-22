@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A Jr. SWE & CS Student</h3>
+<h3 align="center">A Jr. SWE & BSc Student</h3>
 
 - 🌱 I’m currently learning **Rust - Sveltekit**
 
