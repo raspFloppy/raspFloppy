@@ -5,7 +5,7 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **Rust - Sveltekit**
+- 🌱 I’m currently learning **Rust
 
 - 📫 How to reach me **gabriel.monti@tutamail.com**
 
@@ -33,7 +33,6 @@
 	<a href="https://www.qt.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=qt" alt="Qt" height="50" /></a>
 	<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50" /></a>  
 	<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="50" /></a>
-	<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=svelte" alt="Svelte" height="50" /></a>
 	<a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
 </div>
 
